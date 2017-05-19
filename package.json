@@ -1,0 +1,11 @@
+{
+    "name": "immutable",
+    "version": "1.0.0",
+    "description": "A bare-bones immutable linked list module.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sam Olaogun",
+    "license": "MIT"
+}
